@@ -1,4 +1,4 @@
-# HTML builder
+# Node.js builder
 ---
 
 ### Цели:
